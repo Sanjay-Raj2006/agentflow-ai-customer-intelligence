@@ -167,7 +167,6 @@ Run the CrewAI analysis using the project's existing CrewAI entry point before t
 | Existing customer updates | Passed |
 | Duplicate prevention using Customer ID | Passed |
 | Test workflow after permission restoration | Passed |
-| All three retry attempts independently verified | Not verified |
 
 ## Project Structure
 
