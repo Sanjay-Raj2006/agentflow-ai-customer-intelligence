@@ -218,7 +218,7 @@ if __name__ == "__main__":
     print("\n===== CUSTOMER GROWTH REPORT =====\n")
     print(result.raw)
 
-webhook_url = "https://amigosautomation.app.n8n.cloud/webhook/crewai-customer-analysis"
+webhook_url = "N8N_WEBHOOK_URL"
 
 report_data = {
     "message": result.raw,
